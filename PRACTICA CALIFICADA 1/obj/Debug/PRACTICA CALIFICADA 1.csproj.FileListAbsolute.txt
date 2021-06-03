@@ -1,0 +1,10 @@
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\bin\Debug\PRACTICA CALIFICADA 1.exe.config
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\bin\Debug\PRACTICA CALIFICADA 1.exe
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\bin\Debug\PRACTICA CALIFICADA 1.pdb
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\obj\Debug\PRACTICA CALIFICADA 1.csprojAssemblyReference.cache
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\obj\Debug\PRACTICA_CALIFICADA_1.Form1.resources
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\obj\Debug\PRACTICA_CALIFICADA_1.Properties.Resources.resources
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\obj\Debug\PRACTICA CALIFICADA 1.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\obj\Debug\PRACTICA CALIFICADA 1.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\obj\Debug\PRACTICA CALIFICADA 1.exe
+C:\Users\antho\source\repos\PRACTICA CALIFICADA 1\PRACTICA CALIFICADA 1\obj\Debug\PRACTICA CALIFICADA 1.pdb
